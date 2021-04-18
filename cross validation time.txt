@@ -1,0 +1,7 @@
+Cross Validation of 100 took: 1416.2443103790283seconds
+Cross Validation of 500 took: 7567.5256679058075seconds
+Cross Validation of 1000 took: 14659.314595222473seconds
+Cross Validation of 2000 took: 26725.787947654724seconds
+
+
+
